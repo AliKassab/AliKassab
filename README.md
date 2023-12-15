@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **alikassab790@gmail.com**
   
-- 📄 Know about my experiences [ALIKASSABCV.pdf](https://github.com/AliKassab/AliKassab/files/13690283/ALIKASSABCV.pdf)
+<!-- - 📄 Know about my experiences [ALIKASSABCV.pdf](https://github.com/AliKassab/AliKassab/files/13690283/ALIKASSABCV.pdf) -->
 
 - ⚡ Fun fact **I don't like UI anchors**
 
