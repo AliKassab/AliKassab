@@ -3,6 +3,7 @@
 </br>
 <h3 align="center">I am a Game Developer at Genesis Creations S.A.E</h3>
 </br>
+
 - 🔭 I’m currently working on **reworking my old projects**
 
 - 🌱 Also currently interested in **different AI implementations for games**
