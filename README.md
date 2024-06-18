@@ -10,11 +10,11 @@
 
 - 👨‍💻 All of my projects are available on [my github](https://www.github.com/AliKassab)
 
-- 📫 How to reach me **alikassab790@gmail.com**
+- 📫 How to reach me: **alikassab790@gmail.com**
   
 <!-- - 📄 Know about my experiences [ALIKASSABCV.pdf](https://github.com/AliKassab/AliKassab/files/13690283/ALIKASSABCV.pdf) -->
 
-- ⚡ Fun fact **I don't like UI anchors**
+- ⚡ Fun fact: **I don't like UI anchors**
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
