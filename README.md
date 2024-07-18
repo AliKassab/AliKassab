@@ -10,7 +10,7 @@
 
 - 👨‍💻 All of my projects are available on [my github](https://www.github.com/AliKassab)
 
-- 📫 How to reach me: **alikassab790@gmail.com**
+- 📫 How to reach me: **ali.mohammed.kassab@gmail.com**
   
 <!-- - 📄 Know about my experiences [ALIKASSABCV.pdf](https://github.com/AliKassab/AliKassab/files/13690283/ALIKASSABCV.pdf) -->
 
