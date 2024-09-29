@@ -8,7 +8,7 @@
 
 - 🌱 Also currently interested in different AI implementations for games
 
-- 👨‍💻 All of my projects are available on [my github](https://www.github.com/AliKassab)
+- 👨‍💻 All of my projects are available on [My Github](https://www.github.com/AliKassab) & [My Portfolio](https://alikassab790.wixsite.com/alikassab)
 
 - 📫 How to reach me: **ali.mohammed.kassab@gmail.com**
   
