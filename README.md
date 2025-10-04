@@ -6,9 +6,9 @@
 
 - 🔭 I’m currently working on reworking my old projects
 
-- 🌱 Also currently interested in different AI implementations for games
+- 🌱 Currently carving my way into the indie world!
 
-- 👨‍💻 All of my projects are available on [My Github](https://www.github.com/AliKassab) & [My Portfolio](https://alikassab790.wixsite.com/alikassab)
+- 👨‍💻 All of my projects are available on [My Github](https://www.github.com/AliKassab)
 
 - 📫 How to reach me: **ali.mohammed.kassab@gmail.com**
   
