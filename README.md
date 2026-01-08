@@ -18,8 +18,3 @@
     <img width="40" height="30" alt="Email" src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/gmail.svg" align="center">
   </a>
 </p>
-
-<h3 align="center">Check out my Games:</h3>
-<p align="center">
-  <a href="https://ali-kassab.itch.io/" target="_blank"><strong>alikassab.itch.io</strong></a>
-</p>
