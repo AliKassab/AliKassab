@@ -5,6 +5,8 @@
 <p>- I’m currently working on reworking my old projects</p>
 <p>- Currently carving my way into the indie world!</p>
 <p>- Fun fact: <strong>I don't like UI anchors</strong></p>
+<p>- Portfolio: <a target="_blank" href="https://alikassab.github.io/">Click Me!</a></p>
+<p>- CV: <a target="_blank" href="https://alikassab.github.io/AliKassabCV.github.io/">I am here!</a></p>
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
